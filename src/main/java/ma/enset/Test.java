@@ -6,6 +6,7 @@ public class Test{
         /**
         main  */
         String message = "Hello World!";
+        String message2 = "Bonjour Tout le monde!";
         System.out.println(message);
     }
 }
