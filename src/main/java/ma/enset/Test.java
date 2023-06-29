@@ -6,7 +6,8 @@ public class Test{
         /**
         main  */
         String message = "Hello World!";
-        String message2 = "Bonjour Tout le monde!";
+        // add french message 
+        String frenchMessage = "Bonjour tout le monde";
         System.out.println(message);
     }
 }
